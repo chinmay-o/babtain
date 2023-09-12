@@ -1,0 +1,22 @@
+/* scroll height */
+.navbar-custom-sticky {
+  transform: translateY(0) !important;
+}
+
+/* button slanded border */
+.button.double-edge .overlay::after {
+
+  content: none !important;
+}
+
+/* footer brand logo */
+.footer-brand img {
+
+  width: 60px !important;
+}
+
+/* Carousel Button Colour */
+.custom-button {
+
+  background-color: white !important;
+}
