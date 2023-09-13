@@ -1,5 +1,6 @@
 /* scroll height */
 .navbar-custom-sticky {
+  
   transform: translateY(0) !important;
 }
 
@@ -12,11 +13,17 @@
 /* footer brand logo */
 .footer-brand img {
 
-  width: 60px !important;
+  height: 90px !important;
 }
 
 /* Carousel Button Colour */
 .custom-button {
 
   background-color: white !important;
+}
+
+/* Whatsapp Icon Size */
+.nav-link .fa-brands {
+
+  font-size: 24px !important;
 }
