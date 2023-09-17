@@ -17,7 +17,7 @@ function submitForm(e) {
 
   $.ajax({
 
-      url:"https://script.google.com/macros/s/AKfycbzIcEqHg8omhIeQV65HBf0ZSUHmKM-q5uUkmh6ROAFlZ4fBiKqZq4wk1blIUrEyNuzE/exec",
+      url:"https://script.google.com/macros/s/AKfycbwTT11k5CllFKikDvUDNBENHZnggx5OImFbg2lZPqfav5GKdtOP2Ed7ggyI8lsIdy8o/exec",
       data:$("#enquiryForm01").serialize(),
       method:"post",
       success:function (response){
